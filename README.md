@@ -17,4 +17,10 @@ A **console-based banking system** built with C++ to simulate basic bank operati
 
 ## 🚀 How to Run
 
-1. Download
+1. Download the project files.
+2. Open the project in **Visual Studio**.
+3. Run the program and use the menu to manage bank clients.
+
+---
+
+*A practical project from the Programming Roadmap (Course 7).* 👨‍💻
